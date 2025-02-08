@@ -289,5 +289,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-02-08 20:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-02-08 20:39:45 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
