@@ -112,3 +112,25 @@
 [20:43:10] [Server thread/WARN]: Spruce Boat (vehicle of Maycol_27x) moved too quickly! -8.466317511771194,0.0,13.717919685504242
 [20:43:10] [Server thread/WARN]: Spruce Boat (vehicle of Maycol_27x) moved too quickly! -8.198363332581721,0.0,13.426856873150825
 [20:48:31] [Server thread/INFO]: [Not Secure] <nael_binbolo> -800 214
+[20:49:35] [Server thread/INFO]: Maycol_27x was slain by Spider
+[20:50:18] [Server thread/INFO]: OROCHIMARU[/127.37.163.59:34857] logged in with entity id 26229 at (92.56281289196552, 68.0, 278.30000001192093)
+[20:50:18] [Server thread/INFO]: OROCHIMARU joined the game
+[20:50:30] [Server thread/WARN]: Maycol_27x moved too quickly! -9.679130015523839,3.0724278036804407,-0.23804227100319508
+[20:52:03] [Server thread/INFO]: OROCHIMARU was shot by Skeleton
+[20:52:56] [Server thread/INFO]: OROCHIMARU lost connection: Disconnected
+[20:52:56] [Server thread/INFO]: OROCHIMARU left the game
+[20:54:56] [Server thread/INFO]: nael_binbolo lost connection: Timed out
+[20:54:56] [Server thread/INFO]: nael_binbolo left the game
+[20:55:05] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
+[20:55:05] [Server thread/INFO]: Maycol_27x left the game
+[20:57:54] [Server thread/INFO]: OROCHIMARU[/127.37.163.59:39667] logged in with entity id 31792 at (-9.5, 66.0, 10.5)
+[20:57:54] [Server thread/INFO]: OROCHIMARU joined the game
+[21:02:09] [Server thread/INFO]: OROCHIMARU lost connection: Timed out
+[21:02:09] [Server thread/INFO]: OROCHIMARU left the game
+[21:02:09] [Server thread/WARN]: handleDisconnection() called twice
+[21:02:41] [Server thread/INFO]: OROCHIMARU[/127.37.163.59:33923] logged in with entity id 35443 at (158.11331657021256, 76.0, 233.2144979014267)
+[21:02:41] [Server thread/INFO]: OROCHIMARU joined the game
+[21:03:25] [Server thread/INFO]: vGodbridger lost connection: Disconnected
+[21:03:25] [Server thread/INFO]: vGodbridger left the game
+[21:03:47] [Server thread/INFO]: OROCHIMARU lost connection: Disconnected
+[21:03:47] [Server thread/INFO]: OROCHIMARU left the game
